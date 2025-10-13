@@ -198,6 +198,7 @@ body{
     justify-content: center;
 }
 .image-container{
+    margin-top: 10px;
     border: none;
     border-radius: 1.225rem;
     overflow: hidden;
